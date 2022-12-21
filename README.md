@@ -1,2 +1,3 @@
-# movie-dataset
-berisi mengenai dataset dari movie 
+# earthquakes-dataset
+  gempa bumi adalah hal fenomena geologis yang sering terjadi di bumi kita, mengerti tentang frekuensi dan kekuatan dari sebuah gempa menjadi sesuatu yang krusial untuk menghindari kerusakan dan korban jiwa seminimal mungkin, berutungnya kita karena United States Geological Survey(USGS) menangkap secara konverensif data magnitudo gempa bumi dan lokasi dari sebuah gempa,dataset ini berisi mengenai informasi seperti waktu, latitude, longitude, kedalaman, magnitudo, tipe, dan masih banyak lagi. Data ini akan sangat berguna dalam membangun lebih mengenai konseptial dari sebuah potensi bahaya oleh sebuah aktivitas permukaan bumi
+
